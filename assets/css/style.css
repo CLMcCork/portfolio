@@ -1153,8 +1153,8 @@ section {
 #contact .php-email-form input, #contact .php-email-form textarea {
   border-radius: 0;
   box-shadow: none;
-  font-size: 14px; */
-}
+  font-size: 14px; 
+} */
 
 #contact /*.php-email-form*/ .rounded input::focus, #contact .php-email-form textarea::focus {
   background-color: #2dc997;
