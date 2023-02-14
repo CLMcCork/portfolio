@@ -15,6 +15,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+.intro {
+  color: #fff;
+}
+
 a {
   color: #2dc997;
 }
